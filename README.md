@@ -1,7 +1,7 @@
 Description
 =============
 
-Start ngrok tunnels as a systemd service. All ngrok files place in /opt/ngrok.
+Start ngrok tunnels as a systemd service. All ngrok files place in /opt/ngrok..
 
 
 Usage
