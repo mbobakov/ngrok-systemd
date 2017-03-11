@@ -6,7 +6,7 @@ Start ngrok tunnels as a systemd service. All ngrok files place in /opt/ngrok..
 
 Usage
 ============
-1. Copy ngrok.service to /usr/lib/systemd/system/ 
+1. Copy ngrok.service to /etc/systemd/system/ 
 2. Execute from root 'systemctl enable ngrok@<tunnel_name_from_config>.service'
 3. Execute 'systemctl daemon-reload'
 
